@@ -10,5 +10,5 @@ Way two: Download [Gitr](https://github.com/cmdcustom/gitr) and then `$ gitr qai
 
 Way three: Download this repo with the download button
 
-Start: `$ python . -b`
+Start: `$ python . -b` (-b means don't make __pycache__ folder)
 
